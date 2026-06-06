@@ -27,7 +27,7 @@ session = HTTP(
     api_secret=API_SECRET
 )
 
-symbol = "XAUUSD"
+symbol = BTC/USDT
 running = True
 last_update_id = 0
 
